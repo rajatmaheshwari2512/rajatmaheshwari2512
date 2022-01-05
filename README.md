@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajat Maheshwari</h1>
-<h3 align="center">I am a Second Year Information Technology student</h3>
+<h3 align="center">I am a Third Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing Engineering at **ABV-IIITM Gwalior**
 
 - 🌱 I’m exploring **more backend tech stacks and databases**
 
-- 💬 Ask me about **React, Node and C++**
+- 💬 Ask me about **React, Node, Django, and Docker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
