@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Maheshwari</h1>
-<h3 align="center">I am a Third Year Information Technology student</h3>
+<h3 align="center">I am a Fourth Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing Engineering at **ABV-IIITM Gwalior**
 
