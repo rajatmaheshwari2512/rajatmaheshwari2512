@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Maheshwari</h1>
-<h3 align="center">I am a Fourth Year Information Technology student</h3>
+<h3 align="center">I am a Final Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing Engineering at **ABV-IIITM Gwalior**
 
@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajat-maheshwari-b16603193" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="rajat-maheshwari-b16603193" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/mahraj" target="blank"><img align="center" src="https://i.imgur.com/yrohYlU.png" alt="mahraj" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/maheshwarirajat098" target="blank"><img align="center" src="https://iconape.com/wp-content/files/jf/122399/png/LeetCode_logo_white_no_text.png" alt="maheshwarirajat098" height="30" width="30" /></a>
 </p>
 
