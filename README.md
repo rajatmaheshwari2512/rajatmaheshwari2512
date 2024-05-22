@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Maheshwari</h1>
 <h3 align="center">I am a Final Year Information Technology student</h3>
 
-- 🔭 I’m currently pursuing Engineering at **ABV-IIITM Gwalior**
+- 🔭 I’m a graduate from **ABV-IIITM Gwalior**
 
 - 🌱 I’m exploring **more backend tech stacks and databases**
 
